@@ -1,0 +1,24 @@
+{
+    "Apple": {
+        "quantity in kg": 1,
+        "price": 20,
+        "quantity": 8,
+        "fruit": 30
+    },
+    "Banana": {
+        "quantity in kg": 10,
+        "price": 60
+    },
+    "Blue berry": {
+        "quantity in kg": 6,
+        "price": 70
+    },
+    "Kiwi": {
+        "quantity in kg": 15,
+        "price": 80
+    },
+    "Dragon fruit": {
+        "quantity in kg": 6,
+        "price": 150
+    }
+}
